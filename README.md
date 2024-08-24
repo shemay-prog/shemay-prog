@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shemay-prog!
 - 👀 I’m interested learning in cybersecurity :3
 - 🌱 I’m currently learning BSIT
-- 💞️ I'm looking to collaborate on projects that are in C++ or C#
+- 💞️ I'm looking to collaborate on projects that are in C++, Java, or C#
 - ⚡ Fun fact: I enjoy both drawing ✏️ and painting 🎨
 
 <!---
